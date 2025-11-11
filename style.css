@@ -1,5 +1,10 @@
-p { 
-    color : red ;
-    font-size : 16px ;
-    
+
+body {
+    background-color: #f0f8ff; 
+    color: #333333;           
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+p {
+    margin-bottom: 20px;
 }
